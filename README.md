@@ -71,3 +71,4 @@ node auto-Transfer.js
 ```
 
 Close it after 100 txns, and come back tomorrow :D
+close wich ctrl+C
